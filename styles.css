@@ -114,6 +114,9 @@ p {
   font-weight: 600;
   margin: 1em 0;
 }
+.category > img {
+  margin-right: 0.5em;
+}
 .categoryScore {
   margin-left: auto;
 }
