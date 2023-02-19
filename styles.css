@@ -109,14 +109,16 @@ p {
 .category {
   display: flex;
   border-radius: 5px;
-  /* border: solid 1px black; */
+  font-size: 1.2em;
   padding: 1em;
   font-weight: 600;
   margin: 1em 0;
 }
+
 .category > img {
   margin-right: 0.5em;
 }
+
 .categoryScore {
   margin-left: auto;
 }
